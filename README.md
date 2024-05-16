@@ -1,5 +1,12 @@
 ### Hi, I am Jerry. 👋
 
+- Currently working as a PhD researcher in Architectural Sciences (specialization in Acoustics) and a MS researcher in Cognitive Science at Rensselaer Polytechnic Institute;
+- Graduated in Architectural Sciences (MS) and Architecture (BArch) at Rensselaer Polytechnic Institute;
+- Making cool things for immersive rooms at @craive-lab;
+- Interested in Spatial Audio, Human-Computer Interaction, and Computational Cognitive Modeling;
+- Always looking for collaboration by [mail](aca.jerryh@gmail.com).
+
+
 <!--
 **jerrymhuang/jerrymhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
