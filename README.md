@@ -6,7 +6,7 @@ Graduated in Architectural Sciences (MS) and Architecture (BArch) at Rensselaer 
 
 Making cool things for immersive rooms at @craive-lab;
 
-Interested in Spatial Audio, Human-Computer Interaction, Computational Cognitive Modeling, Bayesian Statistics, and Deep Learning;
+Interested in Spatial Audio, Human-Computer Interaction, Computational Cognitive Modeling, and Bayesian Machine Learning;
 
 Always looking for collaboration by [mail](aca.jerryh@gmail.com).
 
