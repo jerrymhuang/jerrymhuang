@@ -1,4 +1,4 @@
-### Hi, I am Jerry. 👋
+### Hi, I'm Jerry. 👋
 
 Currently working as a PhD researcher in Architectural Sciences (specialization in Acoustics) and a MS researcher in Cognitive Science at Rensselaer Polytechnic Institute;
 
@@ -6,7 +6,7 @@ Graduated in Architectural Sciences (MS) and Architecture (BArch) at Rensselaer 
 
 Making cool things for immersive rooms [@craive-lab](https://craive-lab.gitbook.io) [(GitHub)](https://github.com/craive-lab);
 
-Interested in Human-Computer Interaction, Immersive Virtual Environments, Computational Cognitive Modeling, Spatial Audio, and Bayesian Machine Learning;
+Interested in Spatial Audio, Human-Computer Interaction, Immersive Virtual Environments, Computational Cognitive Modeling, and Bayesian Machine Learning;
 
 Always looking for collaboration by [mail](aca.jerryh@gmail.com).
 
