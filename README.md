@@ -2,7 +2,7 @@
 
 I am a doctoral candidate in Architectural Sciences and a researcher in Cognitive Science at Rensselaer Polytechnic Institute.
 
-My interest spans from Bayesian Machine Learning to Computational Cognitive Modeling, Virtual Reality, Architecture, and Acoustics. I also have extensive interdisciplinary research and teaching experience in these areas. 
+My interest spans from Bayesian Machine Learning to Computational Cognitive Modeling, Virtual Reality, Architecture, and Acoustics. 
 
 As a researcher, I make cool things for immersive rooms of all kinds [@craive-lab](https://craive-lab.gitbook.io) [(GitHub)](https://github.com/craive-lab).
 
