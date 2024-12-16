@@ -6,7 +6,7 @@ My interest spans from Bayesian Machine Learning to Computational Cognitive Mode
 
 As a researcher, I make cool things for immersive rooms of all kinds [@craive-lab](https://craive-lab.gitbook.io) [(GitHub)](https://github.com/craive-lab).
 
-**I am on the faculty job market for Fall 2025!** If you are interested in collaboration, please contact me by [mail](aca.jerryh@gmail.com).
+**I am on the faculty and postdoc job market for Fall 2025!** If you are interested in collaboration, please contact me by [mail](aca.jerryh@gmail.com).
 
 
 <!--
