@@ -1,6 +1,6 @@
 ### Hi, I am Jerry. 👋
 
-I am a PhD candidate in Architectural Sciences at Rensselaer Polytechnic Institute.
+I am a PhD candidate in Architectural Sciences and MS candidate in Cognitive Science at Rensselaer Polytechnic Institute.
 
 My interest include Bayesian Machine Learning, Computational Cognitive Modeling, Virtual Reality, Architecture, and Acoustics. 
 
