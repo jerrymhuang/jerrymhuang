@@ -4,7 +4,7 @@ I am a PhD candidate in Architectural Sciences and MS candidate in Cognitive Sci
 
 My interest include Bayesian Machine Learning, Computational Cognitive Modeling, Virtual Reality, Architecture, and Acoustics. 
 
-As a researcher, I make cool things for immersive rooms of all kinds [@craive-lab](https://craive-lab.gitbook.io) [(GitHub)](https://github.com/craive-lab).
+As a researcher, I make cool things for immersive rooms of all kinds at the [CRAIVE-Lab](https://github.com/craive-lab) and [Iris](https://github.com/iris-collective).
 
 **I am on the academic job market for Fall 2025!** If you are interested in collaboration, please contact me by [mail](aca.jerryh@gmail.com).
 
