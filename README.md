@@ -1,12 +1,12 @@
 ### Hi, I am Jerry. 👋
 
-I am a PhD candidate in Architectural Sciences and MS candidate in Cognitive Science at Rensselaer Polytechnic Institute.
+Currently a PhD candidate in Architectural Sciences and MS candidate in Cognitive Science at Rensselaer Polytechnic Institute.
 
 My interest include Bayesian Machine Learning, Computational Cognitive Modeling, Virtual Reality, Architecture, and Acoustics. 
 
-I make cool things for immersive rooms of all kinds at [Iris](https://github.com/iris-collective) and the [CRAIVE-Lab](https://github.com/craive-lab).
+Making cool things for immersive rooms of all kinds at [Iris](https://github.com/iris-collective) and the [CRAIVE-Lab](https://github.com/craive-lab).
 
-**I am on the academic job market for Fall 2025!** If you are interested in collaboration, please contact me by [mail](aca.jerryh@gmail.com).
+**On the academic job market for Fall 2025!** If you are interested in collaboration or hiring me as a faculty member or postdoc, please contact me by [mail](aca.jerryh@gmail.com).
 
 
 <!--
