@@ -2,7 +2,7 @@
 
 Currently a PhD candidate in Architectural Sciences and MS candidate in Cognitive Science at Rensselaer Polytechnic Institute.
 
-My interest include Bayesian Machine Learning, Computational Cognitive Modeling, Virtual Reality, Architecture, and Acoustics. 
+Interested in Bayesian Machine Learning, Computational Cognitive Modeling, Virtual Reality, Architecture, and Acoustics. 
 
 Making cool things for immersive rooms of all kinds at [Iris](https://github.com/iris-collective) and the [CRAIVE-Lab](https://github.com/craive-lab).
 
