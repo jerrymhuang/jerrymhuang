@@ -10,7 +10,7 @@
 
 **⚡On the academic job market for Fall 2025!⚡** 
 
-📫 If you are interested in collaboration or hiring me as a postdoc or tenure-track faculty member, please contact me by [mail](aca.jerryh@gmail.com).
+📫 If you are interested in collaboration or hiring me as a postdoc or a tenure-track faculty member, please contact me by [mail](aca.jerryh@gmail.com).
 
 
 <!--
