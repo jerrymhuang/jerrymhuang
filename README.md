@@ -1,6 +1,6 @@
 ### Hi, I am Jerry. 👋
 
-🔭 Currently working as a PhD candidate in Architectural Sciences and MS student in Cognitive Science at Rensselaer Polytechnic Institute (RPI).
+🔭 Currently a PhD candidate in Architectural Sciences and MS student in Cognitive Science at Rensselaer Polytechnic Institute (RPI).
 
 🎓 Graduated in Architecture (B.Arch.) and Architectural Sciences (M.S.), also at RPI.
 
