@@ -6,7 +6,7 @@
 
 ✨ Interested in Simulation-Based Inference, Computational Cognitive Modeling, and Bayesian Machine Learning. 
 
-🌱 In my spare time, I make public art and virtual reality things. I lead the [Iris Collective](https://github.com/iris-collective), a creative group for immersive technologies.
+🌱 In my spare time, I play the piano and make multimedia public art. I also lead the creative technology group [Iris Collective](https://github.com/iris-collective).
 
 📫 If you are interested in collaboration or hiring me as a tenure-tracked faculty member, please contact me by [mail](aca.jerryh@gmail.com).
 
