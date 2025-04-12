@@ -2,7 +2,7 @@
 
 🔭 Currently transitioning to be a Postdoctoral Researcher in Cognitive Science at Rensselaer Polytechnic Institute (RPI).
 
-🎓 Graduating in May 2025 as a PhD in Architectural Sciences, also at RPI.
+🎓 Graduating in May 2025 with a PhD in Architectural Sciences, also at RPI.
 
 ✨ Interested in Computational Cognitive Modeling, Simulation-Based Inference, and Bayesian Machine Learning. 
 
