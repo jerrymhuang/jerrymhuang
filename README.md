@@ -1,12 +1,10 @@
 ### Hi, I am Jerry (he/him). 👋
 
-🔭 Currently transitioning to be a Postdoctoral Researcher in Cognitive Science at Rensselaer Polytechnic Institute (RPI).
+🔭 Currently a Postdoctoral Researcher at Rensselaer Polytechnic Institute (RPI).
 
-🎓 Graduating in May 2025 with a PhD in Architectural Sciences, also at RPI.
+✨ Reseatch interest: Simulation-Based Inference, Computational Cognitive Modeling, and Bayesian Machine Learning. 
 
-✨ Primary research interest: Computational Cognitive Modeling, Simulation-Based Inference, and Bayesian Machine Learning. 
-
-🌱 I also lead the [Iris Collective](https://github.com/iris-collective), a creative research group for intelligent built environment.
+🌱 I also lead the [Iris Collective](https://github.com/iris-collective), a creative research group for human-computer interaction.
 
 📫 If you are interested in collaboration or hiring me as a tenure-tracked faculty member, please contact me by [mail](aca.jerryh@gmail.com).
 
