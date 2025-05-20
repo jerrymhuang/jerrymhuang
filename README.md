@@ -1,6 +1,6 @@
 ### Hi, I am Jerry (he/him). 👋
 
-🔭 Currently a Postdoctoral Researcher at Rensselaer Polytechnic Institute (RPI).
+🔭 Currently transitioning to be a Postdoctoral Researcher at Rensselaer Polytechnic Institute (RPI).
 
 ✨ Reseatch interest: Simulation-Based Inference, Computational Cognitive Modeling, and Bayesian Machine Learning. 
 
