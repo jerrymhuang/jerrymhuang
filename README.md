@@ -2,9 +2,7 @@
 
 🔭 Currently transitioning to be a Postdoctoral Researcher at Rensselaer Polytechnic Institute (RPI).
 
-✨ Reseatch interest: Simulation-Based Inference, Computational Cognitive Modeling, and Human-Building Interaction. 
-
-🌱 I also lead the [Iris Collective](https://github.com/iris-collective), a creative research group for human-computer interaction.
+✨ Reseatch interest: Human-Building Interaction, Computational Cognitive Modeling, and Simulation-Based Inference. 
 
 📫 If you are interested in collaboration or hiring me as a tenure-tracked faculty member, please contact me by [mail](aca.jerryh@gmail.com).
 
