@@ -2,7 +2,7 @@
 
 🔭 Currently a Postdoctoral Researcher at Rensselaer Polytechnic Institute (RPI).
 
-✨ Reseatch interest: Computational Cognitive Modeling, Simulation-Based Inference, Bayesian Machine Learning, and Human-Computer Interaction. 
+✨ Reseatch interest: Computational Cognitive Modeling, Simulation-Based Inference, and Bayesian Machine Learning. 
 
 ⚡ I am also the founder of the [Iris Collective](), a creative research group for next-generation spatial intelligence in the built environment.
 
