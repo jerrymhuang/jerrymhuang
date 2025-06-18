@@ -4,7 +4,7 @@
 
 ✨ Reseatch interest: Computational Cognitive Modeling, Simulation-Based Inference, and Bayesian Machine Learning. 
 
-⚡ I am also the founder of the [Iris Collective](), a creative research group for next-generation spatial intelligence in the built environment.
+⚡ I also lead the [Iris Collective](https://github.com/iris-collective), a creative research group for next-generation spatial intelligence in the built environment.
 
 📫 If you are interested in collaboration or hiring me as a tenure-tracked faculty member, please contact me by [mail](aca.jerryh@gmail.com).
 
