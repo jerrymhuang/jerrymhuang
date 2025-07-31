@@ -1,10 +1,10 @@
 ### Hi, I am Jerry (he/him). 👋
 
-🔭 I am Currently a Computational Science and Engineering Postdoctoral Researcher at Rensselaer Polytechnic Institute (RPI).
+🔭 I am currently a Computational Science and Engineering Postdoctoral Researcher at Rensselaer Polytechnic Institute (RPI).
 
 ✨ Primary research interest: Simulation-Based Inference, Computational Cognitive Modeling, and Bayesian Machine Learning. 
 
-⚡ I lead the [Iris Collective](https://github.com/iris-collective), a creative research group for next-generation spatial intelligence in the built environment.
+⚡ I lead the [Iris Collective](https://github.com/iris-collective), a group for next-generation spatial intelligence in the built environment.
 
 📫 If you are interested in collaboration on any research and creative endeavors, please contact me by [mail](aca.jerryh@gmail.com).
 
