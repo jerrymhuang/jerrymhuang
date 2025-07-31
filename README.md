@@ -6,7 +6,7 @@
 
 ⚡ I lead the [Iris Collective](https://github.com/iris-collective), a creative research group for next-generation spatial intelligence in the built environment.
 
-📫 If you are interested in research and creative collaborations, please contact me by [mail](aca.jerryh@gmail.com).
+📫 If you are interested in collaboration on any research and creative endeavors, please contact me by [mail](aca.jerryh@gmail.com).
 
 
 <!--
