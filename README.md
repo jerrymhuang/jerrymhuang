@@ -1,6 +1,6 @@
 ### Hi, I am Jerry (he/him). 👋
 
-🔭 I am currently a Computational Science and Engineering Postdoctoral Researcher at Rensselaer Polytechnic Institute (RPI).
+🔭 I am currently a Postdoctoral Researcher at [BayesOps](https://bayesops.com/).
 
 ✨ Research interest: Simulation Intelligence, Probabilistic Machine Learning, and Computational Cognitive Modeling.
 
