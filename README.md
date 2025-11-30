@@ -2,7 +2,7 @@
 
 🔭 I am currently a Computational Science and Engineering Postdoctoral Researcher at Rensselaer Polytechnic Institute (RPI).
 
-✨ Primary research interest: Simulation-Based Inference, Probabilistic Machine Learning, and Computational Cognitive Modeling. 
+✨ Research interest: Simulation Intelligence, Probabilistic Machine Learning, and Computational Cognitive Modeling.
 
 📫 If you are interested in collaboration on any research and creative endeavors, please contact me by [mail](aca.jerryh@gmail.com).
 
