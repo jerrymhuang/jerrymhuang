@@ -4,7 +4,7 @@
 
 ✨ Research interest: Simulation Intelligence, Probabilistic Machine Learning, and Computational Cognitive Modeling.
 
-📫 If you are interested in collaboration on any research and creative endeavors, please contact me by [mail](aca.jerryh@gmail.com).
+📫 If you are interested in collaboration on any research and/or creative works, please contact me by [mail](aca.jerryh@gmail.com).
 
 
 <!--
