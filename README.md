@@ -2,7 +2,7 @@
 
 🔭 I am currently a Postdoctoral Researcher at [BayesOps](https://bayesops.com/).
 
-✨ Research interest: Simulation Intelligence, Probabilistic Machine Learning, and Computational Cognitive Modeling.
+✨ Research interest: Simulation Intelligence, Computational Cognitive Modeling, and Probabilistic Machine Learning.
 
 📫 If you are interested in collaboration on any research and/or creative works, please contact me by [mail](aca.jerryh@gmail.com).
 
