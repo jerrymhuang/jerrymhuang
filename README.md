@@ -1,10 +1,6 @@
-### Hi, I am Jerry (he/him). 👋
+### Hi, I am Jerry (he/him 🏳️‍🌈). 👋
 
-🔭 I am currently a Postdoctoral Researcher at [BayesOps](https://bayesops.com/).
-
-✨ Research interest: Simulation Intelligence, Computational Cognitive Modeling, and Probabilistic Machine Learning.
-
-📫 If you are interested in collaboration on any research and/or creative works, please contact me by [mail](aca.jerryh@gmail.com).
+🔭 I am currently a Researcher at [BayesOps](https://bayesops.com/). I am interested in Simulation Intelligence, Computational Cognitive Modeling, and Probabilistic Machine Learning. Feel free to [reach out](aca.jerryh@gmail.com) if you are interested in any research and creative collaborations.
 
 
 <!--
