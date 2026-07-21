@@ -1,6 +1,6 @@
 ### Hi, I'm Jerry (he/him 🌈). 👋
 
-I'm a researcher at [BayesOps](https://bayesops.com/), interested in **simulation intelligence, Bayesian inference, computational cognitive modeling, and probabilistic machine learning**, and their applications in the creative realm. Feel free to [reach out](aca.jerryh@gmail.com) if you are interested in any collaborations.
+I'm a researcher at [BayesOps](https://bayesops.com/), interested in **simulation intelligence, Bayesian inference, computational cognitive modeling, and probabilistic machine learning**, and their applications in the creative realm. Feel free to [reach out](aca.jerryh@gmail.com) if you're interested in collaborations.
 
 
 <!--
